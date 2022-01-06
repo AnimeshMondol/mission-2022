@@ -67,6 +67,13 @@ h1{
     font-size: 15px;
     text-align: left;
 }
+#cart-img{
+    width: 35%;
+    height: 50%;
+}
+#reduce-space{
+    margin-left: -3%;
+}
 #cart-item-color-1{
     background-color: rgb(245, 245, 190);
 }
@@ -96,4 +103,30 @@ small{
 h2{
     font-size: 40px;
     font-family: fantasy;
+}
+#bg-img{
+    background-image: url(image/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position-x: 5%;
+    background-size: 20% 60%;
+    background-position-y: 70%;
+}
+#bg-img1{
+    background-image: url(image/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position-x: 92%;
+    background-size: 20% 60%;
+    background-position-y: 100%;
+}
+#bg-img2{
+    background-image: url(image/shapes/dot.png);
+    background-repeat: no-repeat;
+    background-size: 15% 35%;
+    background-position-x: 110%;
+}
+#bg-img3{
+    background-image: url(image/shapes/dot.png);
+    background-repeat: no-repeat;
+    background-size: 15% 35%;
+    background-position-x: -10%;
 }
