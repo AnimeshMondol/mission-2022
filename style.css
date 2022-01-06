@@ -130,3 +130,65 @@ h2{
     background-size: 15% 35%;
     background-position-x: -10%;
 }
+.mapouter{
+    margin-left: -5%;
+    text-align: right;
+    height: 500px;
+    width: 500px;
+}
+.gmap_canvas {
+    overflow: hidden;
+    background: none !important;
+    height: 500px;
+    width: 500px;
+}
+.contact-us{
+    width: 70%;
+    height: 80%;
+    border-radius: 15px;
+    margin-left: -20%;
+    padding-top: 5%;
+    padding-bottom: 11%;
+    padding-left: 2%;
+    padding-right: 2%;
+}
+#form-heading-text-align{
+    text-align: center;
+    font-family: monospace;
+}
+#inputfield{
+    height: 5%;
+    width: 50%;
+    border: 2px solid rgb(201, 14, 14);
+    border-radius: 5px;
+    margin-left: 24%;
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    box-shadow: 5px 5px 10px rgb(0, 0, 0);
+}
+#textarea{
+    border: 2px solid rgb(3, 2, 97);
+    border-radius: 5px;
+    margin-left: 24%;
+    width: 50%;
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    box-shadow: 5px 5px 10px rgb(0, 0, 0);
+}
+#submittype{
+    border: 2px solid rgb(3, 2, 97);
+    border-radius: 5px;
+    margin-left: 24%;
+    width: 55%;
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    box-shadow: 5px 5px 10px rgb(0, 0, 0);
+    background-color: darkgreen;
+    color: floralwhite;
+}
