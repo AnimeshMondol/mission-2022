@@ -2,7 +2,7 @@ body{
     font-family: 'Luxurious Roman', cursive;
     font-size: 35px;
     background-color: rgb(218, 245, 236);
-    padding-left: 100px;
+    
 }
 .span-color{
     color: rgb(201, 14, 14);
@@ -16,6 +16,7 @@ h1{
 }
 .flex-container{
     display: flex;
+    padding-left: 100px;
 }
 .abutton{
     text-decoration: none;
